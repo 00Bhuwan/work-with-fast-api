@@ -1,0 +1,4 @@
+"fastapi[Standard]"
+jinja2
+pymongo
+python-multipart
